@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="hashtag">#</string>
+    <string name="enter_valorant_username">Enter Valorant Username</string>
+    <string name="name">Name</string>
+    <string name="tag">Tag</string>
+    <string name="log_in">Log-In</string>
+</resources>
